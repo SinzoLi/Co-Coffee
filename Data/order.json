@@ -1,0 +1,16 @@
+{
+  "userId": 1,
+  "items": [
+    {
+      "coffeeId": { "$oid": "5f2a2e8a41052e529cfe2e1f" }, 
+      "price": 3.99,
+      "quantity": 2
+    },
+    {
+      "coffeeId": { "$oid": "5f2a2e8a41052e529cfe2e20" }, 
+      "quantity": 1
+    }
+  ],
+  "totalPrice": 12.97,
+  "status": "Already paid"
+}

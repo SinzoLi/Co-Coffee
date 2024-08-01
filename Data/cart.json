@@ -1,0 +1,17 @@
+{
+  "userId": 1,  
+  "items": [
+    {
+      "coffeeId": { "$oid": "669e0cc5a850a75d9ea99629" }, 
+      "coffeeName": "Flat White",
+      "price": 3.99,
+      "quantity": 2
+    },
+    {
+      "coffeeId": { "$oid": "669e0cc5a850a75d9ea9962a" },
+      "coffeeName":"Latte",
+      "price": 4.5,
+      "quantity": 1
+    }
+  ]
+}
